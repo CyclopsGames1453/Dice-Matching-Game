@@ -12,5 +12,5 @@ The aim of this game is to ensure that at least three of the dice we roll are th
 
 # Rules
 
-+three of a kind is worth 100 points multiplied by the given number, e.g. three 5s are worth 500 points
-+three 1s are worth 1,000 points
++ three of a kind is worth 100 points multiplied by the given number, e.g. three 5s are worth 500 points
++ three 1s are worth 1,000 points
